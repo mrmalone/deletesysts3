@@ -1,9 +1,9 @@
 # deletesysts3
 Script requested by https://r4p3.net/members/growndex.34027/
 
-1.Introdu detalii necesare in config.php
-2.Incarca in phpmyadmin baza de date channels.sql
-3.Dupa primii 2 pasi tot ce ti-a ramas de facut este sa pornesti scriptul.
+1.Introdu detalii necesare in config.php <br>
+2.Incarca in phpmyadmin baza de date channels.sql<br>
+3.Dupa primii 2 pasi tot ce ti-a ramas de facut este sa pornesti scriptul.<br>
 
 Acesta va rula odata la 5 minute prin comanda :
 
