@@ -22,7 +22,7 @@ if ($mysqli->connect_error) {
 }
 
 foreach($ts3_VirtualServer->channelList() as $channel) {
-    if($channel['pid'] == $channelradacina) {        
+    if(in_array($channel['pid'], $channelradacina)) {        
         
         $channelId = $channel->getId();
         $channelName = $channel['channel_name'];

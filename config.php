@@ -16,7 +16,7 @@ $cfg['host'] = '';  // ip ts3
 $cfg['query'] = 10011;  // portul de query
 $cfg['voice'] = 9988; // portul ts3 server
 $cfg['serverinstance'] = 3; // ID server
-$channelradacina = '497';  // canalul parinte unde sunt atasate sub-channel
+$channelradacina = array('499','542','497');  // canalele parinte unde sunt atasate sub-channel-urile
 
 // Detalii despre query
 $cfg["user"] = ''; // user query
